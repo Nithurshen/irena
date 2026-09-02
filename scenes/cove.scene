@@ -1,0 +1,8 @@
+mesh cove.obj
+camera 155.000 160.000 -370.000  155.000 160.000 170.000  46
+resolution 620 640
+samples 12288
+bounces 20
+clamp 15
+exposure 0.40
+environment 0 0 0

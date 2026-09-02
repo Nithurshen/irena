@@ -1,0 +1,35 @@
+newmtl tileA
+Kd 0.720 0.700 0.660
+
+newmtl tileB
+Kd 0.100 0.110 0.130
+
+newmtl ior0
+Kd 0.99 0.99 0.99
+Ni 1.20
+d 0.05
+illum 7
+
+newmtl ior1
+Kd 0.99 0.99 0.99
+Ni 1.33
+d 0.05
+illum 7
+
+newmtl ior2
+Kd 0.99 0.99 0.99
+Ni 1.52
+d 0.05
+illum 7
+
+newmtl ior3
+Kd 0.99 0.99 0.99
+Ni 1.77
+d 0.05
+illum 7
+
+newmtl ior4
+Kd 0.99 0.99 0.99
+Ni 2.42
+d 0.05
+illum 7

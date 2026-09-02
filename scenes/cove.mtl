@@ -1,0 +1,27 @@
+newmtl floor
+Kd 0.700 0.690 0.660
+
+newmtl ceiling
+Kd 0.760 0.750 0.730
+
+newmtl back
+Kd 0.700 0.690 0.660
+
+newmtl warm
+Kd 0.620 0.300 0.140
+
+newmtl cool
+Kd 0.150 0.320 0.560
+
+newmtl chalk
+Kd 0.800 0.780 0.750
+
+newmtl nickel
+Kd 0.30 0.30 0.31
+Ks 0.70 0.70 0.72
+Ns 100.041
+illum 3
+
+newmtl strip
+Kd 0.80 0.80 0.80
+Ke 52.00 50.00 45.00

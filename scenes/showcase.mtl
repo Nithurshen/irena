@@ -1,0 +1,23 @@
+newmtl floor
+Kd 0.34 0.33 0.31
+
+newmtl copper
+Kd 0.35 0.16 0.09
+Ks 0.95 0.64 0.44
+Ns 220
+illum 3
+
+newmtl ivory
+Kd 0.80 0.74 0.62
+
+newmtl crystal
+Kd 0.99 0.99 0.99
+Ni 1.52
+d 0.05
+illum 7
+
+newmtl steel
+Kd 0.25 0.26 0.28
+Ks 0.62 0.65 0.70
+Ns 40
+illum 3

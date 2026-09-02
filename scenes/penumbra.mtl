@@ -1,0 +1,11 @@
+newmtl sand
+Kd 0.340 0.320 0.280
+
+newmtl stone
+Kd 0.360 0.350 0.340
+
+newmtl post
+Kd 0.300 0.290 0.280
+
+newmtl chalk
+Kd 0.780 0.760 0.720

@@ -1,0 +1,8 @@
+mesh penumbra.obj
+camera -31.500 168.000 -532.000  0.000 94.500 140.000  32
+resolution 960 560
+samples 2048
+bounces 6
+exposure 0.6
+sky 0.06 0.13 0.32  0.30 0.36 0.48
+sun 0.46 0.58 -0.67  5.6 5.3 4.8  10

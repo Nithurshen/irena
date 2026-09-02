@@ -1,0 +1,26 @@
+newmtl paper
+Kd 0.700 0.690 0.660
+
+newmtl chalk
+Kd 0.740 0.720 0.690
+
+newmtl clay
+Kd 0.600 0.360 0.260
+
+newmtl graphite
+Kd 0.26 0.26 0.28
+Ks 0.56 0.57 0.60
+Ns 27.586
+illum 3
+
+newmtl mirror
+Kd 0.32 0.32 0.33
+Ks 0.92 0.93 0.94
+Ns 2220.222
+illum 3
+
+newmtl crystal
+Kd 0.99 0.99 0.99
+Ni 1.52
+d 0.05
+illum 7

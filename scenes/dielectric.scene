@@ -1,0 +1,9 @@
+mesh dielectric.obj
+camera 0.000 150.000 -660.000  0.000 30.000 20.000  30
+resolution 960 560
+samples 6144
+bounces 20
+clamp 25
+exposure 1.0
+sky 0.09 0.18 0.44  0.52 0.60 0.72
+sun 0.30 0.42 0.86  4.6 4.4 4.05  0.5

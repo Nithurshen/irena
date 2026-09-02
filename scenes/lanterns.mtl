@@ -1,0 +1,47 @@
+newmtl ground
+Kd 0.320 0.300 0.280
+
+newmtl wall
+Kd 0.320 0.310 0.290
+
+newmtl chalk
+Kd 0.820 0.800 0.760
+
+newmtl moss
+Kd 0.300 0.460 0.260
+
+newmtl pewter
+Kd 0.30 0.30 0.32
+Ks 0.68 0.69 0.72
+Ns 76.125
+illum 3
+
+newmtl crystal
+Kd 0.99 0.99 0.99
+Ni 1.52
+d 0.05
+illum 7
+
+newmtl lamp0
+Kd 1.00 0.66 0.26
+Ke 2.73 1.33 0.35
+
+newmtl lamp1
+Kd 0.34 0.80 1.00
+Ke 0.43 1.72 3.36
+
+newmtl lamp2
+Kd 1.00 0.36 0.66
+Ke 3.28 0.59 1.72
+
+newmtl lamp3
+Kd 0.60 1.00 0.44
+Ke 0.94 3.05 0.59
+
+newmtl lamp4
+Kd 0.96 0.94 0.90
+Ke 11.72 11.13 10.16
+
+newmtl lamp5
+Kd 1.00 0.48 0.16
+Ke 3.75 1.17 0.27

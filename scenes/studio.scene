@@ -1,0 +1,8 @@
+mesh studio.obj
+camera 125.000 215.000 -620.000  -10.000 65.000 30.000  32
+resolution 900 600
+samples 4096
+bounces 8
+clamp 20
+exposure 0.75
+environment 0.62 0.64 0.70

@@ -1,0 +1,32 @@
+# Build output
+build/
+build*/
+irena
+*.o
+*.a
+
+# CMake, when configured in-tree
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Render output
+scenes/output/
+*_output.png
+*_output.pfm
+*.pfm
+
+# Benchmark scenes, fetched not committed
+scenes/bench/
+
+# Editor and tool config
+.vscode/
+.idea/
+.cache/
+.clangd
+*.swp
+
+# OS
+.DS_Store

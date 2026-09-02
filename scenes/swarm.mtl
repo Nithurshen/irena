@@ -1,0 +1,23 @@
+newmtl ash
+Kd 0.700 0.680 0.640
+
+newmtl rust
+Kd 0.480 0.200 0.100
+
+newmtl chrome
+Kd 0.30 0.30 0.32
+Ks 0.85 0.86 0.88
+Ns 553.556
+illum 3
+
+newmtl verdigris
+Kd 0.18 0.32 0.28
+Ks 0.42 0.72 0.64
+Ns 20.222
+illum 3
+
+newmtl ice
+Kd 0.99 0.99 0.99
+Ni 1.45
+d 0.05
+illum 7

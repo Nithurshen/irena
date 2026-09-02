@@ -1,0 +1,41 @@
+newmtl deck
+Kd 0.300 0.300 0.320
+
+newmtl fin
+Kd 0.130 0.130 0.150
+
+newmtl gold0
+Kd 0.35 0.26 0.10
+Ks 0.95 0.80 0.42
+Ns 4998.000
+illum 3
+
+newmtl gold1
+Kd 0.35 0.26 0.10
+Ks 0.95 0.80 0.42
+Ns 553.556
+illum 3
+
+newmtl gold2
+Kd 0.35 0.26 0.10
+Ks 0.95 0.80 0.42
+Ns 116.343
+illum 3
+
+newmtl gold3
+Kd 0.35 0.26 0.10
+Ks 0.95 0.80 0.42
+Ns 30.000
+illum 3
+
+newmtl gold4
+Kd 0.35 0.26 0.10
+Ks 0.95 0.80 0.42
+Ns 7.877
+illum 3
+
+newmtl gold5
+Kd 0.35 0.26 0.10
+Ks 0.95 0.80 0.42
+Ns 1.125
+illum 3
